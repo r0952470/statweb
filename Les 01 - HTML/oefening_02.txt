@@ -1,0 +1,8 @@
+1 docktype html
+2
+3
+4 sportfocus vzw -zwemlessen -sportkampen - voetbal
+5 UTF-8
+6
+7 dit is favicon code, het is het logo bovenaan de pagina in het tab blad
+    zorgt voor goede herkenbaarheid op het internet en makelijk zelf te maken met een favicon generator
